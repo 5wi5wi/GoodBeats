@@ -1,6 +1,13 @@
 # ChillBot
 The source code of Chill bot on Layer Coding discord server!
 
+# Installation
+```npm
+npm install
+````
+
+# Features
+
 `1. 💫 Advanced commands | أوامر مميزة`
 
 `2. 📃 Dynamic help list | قائمة تعليمات ديناميكية`
